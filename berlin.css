@@ -1,7 +1,7 @@
 /*!
  * Theme Name:     Berlin
- * Version:        1.4
- * Last Updated:   2023-05-10
+ * Version:        1.4.1
+ * Last Updated:   2023-05-20
  */
 #searchselector > li,
 #sitesearchform,
@@ -592,11 +592,11 @@ body > table:first-of-type .embedded {
   text-align: right;
   padding: 0 5px
 }
-body > table:first-of-type .embedded:nth-of-type(1),
-body > table:first-of-type .embedded:nth-of-type(2) {
+body > table:first-of-type .embedded:nth-of-type(1) {
   width: 33%
 }
 body > table:first-of-type .embedded:nth-of-type(3) {
+  width: 33%
   white-space: nowrap
 }
 body > table:first-of-type .embedded .curuser-stats {
